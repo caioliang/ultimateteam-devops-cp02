@@ -1,4 +1,4 @@
-# ⚙️ Ultimate Team
+# 🥏 Ultimate Team
 
 Sitema de controle de treinos 
 
