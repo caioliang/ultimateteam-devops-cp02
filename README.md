@@ -1,7 +1,8 @@
 # ⚙️ Ultimate Team
 
-# ⚙️ DEVOPS TOOLS AND CLOUD COMPUTING: Version.
+Sitema de controle de treinos 
 
+# ⚙️ DEVOPS TOOLS AND CLOUD COMPUTING: Version.
 
 Este guia descreve os passos necessários para configurar a infraestrutura na Microsoft Azure e implantar a aplicação Ultimate Team utilizando o Azure CLI e GitHub Actions.
 
